@@ -1,0 +1,31 @@
+#content h1 {
+    background: url("../img/lou.gif") no-repeat left center;
+    text-indent: -9999px;
+    width: 120px;
+    height: 40px;
+    margin: 20px 0px 0px 30px;
+}
+
+#content dl{
+   width: 280px;
+   height: 200px;
+   float: left;
+}
+
+#content dl dt{
+	font-size: 14px;
+	width: 230px;
+	height: 25px;
+	margin-left: 50px;
+	padding-top: 10px;
+	background-color:floralwhite;
+	text-align: center;
+	border-bottom: 1px solid orange;
+	color: #666666;
+}
+
+#content p{
+    clear: both;
+    text-align: center;
+    color: #666666;
+}

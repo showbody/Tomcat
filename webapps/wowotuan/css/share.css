@@ -1,0 +1,84 @@
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+body{
+	width: 860px;
+	margin: 0 auto;
+	font-size: 12px;
+	background-image:url("../img/bg.gif");
+}
+#header{
+	width: 860px;
+	height: 300px;
+}
+#header img{
+	width: 860px;
+	height: 315px;
+}
+#nav{
+	height: 50px;
+	background-image: url("../img/linkbg.jpg");
+}
+#nav ul{
+	line-height: 50px;
+}
+#nav ul li{
+	float: left;
+	text-align: center;
+	width: 115px;
+	background: url("../img/linkr.gif") no-repeat right center;
+}
+#nav ul li:last-child{
+	background: none;
+}
+#nav ul li a{
+	color: white;
+}
+#nav ul li a:hover{
+	color: yellow;
+	text-decoration: underline;
+}
+#footer{
+	height: 100px;
+	background-image: url("../img/footer1.gif");
+	clear: both;
+}
+#footer img{
+	width: 860px;
+}
+#footer p{
+	text-align: right;
+	color: white;
+}
+
+#sidebars{
+	width: 239px;
+	height: 800px;
+	background: white;
+	float: left;
+	border-right: 1px solid #666666;
+}
+#sidebars ul{
+	text-align: center;
+	line-height: 40px;
+	font-size: 15px;
+	color: #666666;
+	font-family: 行楷;
+	font-weight: 700;
+}
+#sidebars ul li{
+	background: url("../img/jiantou.jpg") no-repeat left center;
+	border-bottom: 0.5px solid #666666 ;
+	list-style: none;
+}
+
+#content{
+   width: 620px;
+   height: 800px;
+   background: white;
+   float: left;
+   color: #666666;
+}

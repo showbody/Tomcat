@@ -1,0 +1,32 @@
+#content h1{
+	background: url("../img/job.gif")no-repeat left center;
+	text-indent: -9999px;
+	width: 120px;
+	height: 40px;
+	margin: 20px 0px 0px 30px;
+}
+
+#content table{
+    margin-left: 30px;
+    line-height: 30px;
+    width: 80%;
+	border: 1px solid;
+	border-collapse:collapse;
+ }
+
+#content table th{
+	background-color:aliceblue;
+	border: 1px solid;
+}
+#content table td{
+    text-align: center;
+	border: 1px solid;
+}
+#content a{
+	color: blue;
+}
+#content p{
+    margin-left: 30px;
+    margin-top: 20px;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+#content h1{
+	background: url("../img/lianxi.gif")no-repeat left center;
+	width: 120px;
+	height: 40px;
+	text-indent: -9999px;
+	margin: 20px 0px 0px 30px ;
+}
+#content ul{
+	font-size: 14px;
+	line-height: 20px;
+}
+#content p{
+	font-size: 14px;
+	text-align: center;
+}

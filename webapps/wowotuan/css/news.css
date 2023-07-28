@@ -1,0 +1,23 @@
+#content h1 {
+    background: url("../img/news.gif") no-repeat left center;
+    text-indent: -9999px;
+    width: 120px;
+    height: 40px;
+    margin: 20px 0px 0px 30px;
+}
+
+
+#content ul li{
+    line-height: 20px;
+    color: #666666;
+}
+
+#content ul li a{
+    color: blue;
+}
+
+#content p{
+    line-height: 20px;
+	text-align: center;
+    color: #666666;
+}

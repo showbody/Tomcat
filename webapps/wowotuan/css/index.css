@@ -1,0 +1,127 @@
+#sidebar{
+	width: 240px;
+	height: 500px;
+	background: white url("../img/weline.gif") no-repeat right center;
+	float: left;
+}
+#sidebar h1{
+	background: url("../img/wel.gif") no-repeat;
+	width: 140px;
+	height: 35px;
+	margin: 20px 0px 0px 30px;
+	text-indent: -9999px;
+}
+#sidebar img{
+	margin-left:25px ;
+}
+#sidebar ul li{
+	line-height: 20px;
+	color: #666666;
+}
+#sidebar ul li a{
+	display: inline-block;
+	width: 70px;
+	height: 10px;
+	margin: 10px 0px 10px 0px;
+	background: url("../img/more.gif") no-repeat left center;
+}
+.line{
+	border:1px solid gray;
+	display:inline-block;
+	width:180px;
+}
+#news{
+	width: 310px;
+	height: 300px;
+	float: left;
+	background: white url("../img/weline.gif") no-repeat right center;
+}
+#news h1{
+	background: url("../img/news.gif")no-repeat ;
+	width: 140px;
+	height: 35px;
+	margin: 20px 0px 0px 30px;
+	text-indent: -9999px;
+}
+#news ul li{
+	line-height: 20px;
+}
+.date{
+	color: orange;
+}
+#news ul li a{
+	display: inline-block;
+	width: 70px;
+	height: 10px;
+	margin: 10px 0px 10px 0px;
+	background: url("../img/more.gif") no-repeat left center;
+}
+#about{
+	width: 310px;
+	height: 300px;
+	float: right;
+	background: white;
+}
+#about h1{
+	background:url("../img/about.gif")no-repeat left center;
+	width: 200px;
+	height: 35px;
+	margin: 20px 0px 0px 30px;
+	text-indent: -9999px;
+}
+#about img{
+	width: 270px;
+	height: 100px;
+	padding-left: 25px;
+}
+#about p{
+    margin-left: 30px;
+    margin-right: 20px;
+    line-height: 20px;
+	color: #666666;
+}
+#about a{
+	display: inline-block;
+	width: 100px;
+	height: 9px;
+	margin: 10px 0px 0px 30px;
+	background: url("../img/more.gif") no-repeat left center;
+}
+#estate{
+	width: 620px;
+	height: 200px;
+	background: white;
+	float: left;
+}
+#escon{
+	margin-top: 30px;
+	border-top: 1px solid #666666;
+}
+#estate img{
+	float: left;
+	margin: 10px 0px 0px 20px;
+}
+#estate dl{
+	float: left;
+	width: 300px;
+}
+#estate dl dt{
+	background: url("../img/estate1.gif")no-repeat left center;
+	width: 117px;
+	height: 30px;
+	margin-left: 30px;
+	text-indent: -9999px;
+}
+#estate dl dd{
+	float: left;
+	line-height: 20px;
+	margin-left: 30px;
+	color: #666666;
+}
+#estate dl dd a{
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	margin-left: 0px;
+	background: url("../img/more.gif") no-repeat left center;
+}
